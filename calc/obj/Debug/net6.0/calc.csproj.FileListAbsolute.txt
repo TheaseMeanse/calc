@@ -1,0 +1,15 @@
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\bin\Debug\net6.0\calc.exe
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\bin\Debug\net6.0\calc.deps.json
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\bin\Debug\net6.0\calc.runtimeconfig.json
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\bin\Debug\net6.0\calc.dll
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\bin\Debug\net6.0\calc.pdb
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.csproj.AssemblyReference.cache
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.AssemblyInfoInputs.cache
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.AssemblyInfo.cs
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.csproj.CoreCompileInputs.cache
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.dll
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\refint\calc.dll
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.pdb
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\calc.genruntimeconfig.cache
+D:\Top secret (no)\Backup Drive\Серия Баловство\calc\obj\Debug\net6.0\ref\calc.dll
